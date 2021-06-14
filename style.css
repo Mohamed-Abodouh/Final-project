@@ -27,6 +27,17 @@ header{
     z-index: 1000;
 }
 
+.about p{
+    text-align: center;
+    background-color: yellow;
+}
+
+.about h3{
+    text-align: center;
+    background-color: magenta;
+}
+
+
 section{
     position: relative;
     height: calc(100vh - 3rem);
